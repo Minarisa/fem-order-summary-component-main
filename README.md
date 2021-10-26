@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Minarisa/fem-order-summary-component-main)
+- Live Site URL: [GitHub Page](https://minarisa.github.io/fem-order-summary-component-main/)
 
 ## My process
 
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Minarisa)
+- Frontend Mentor - [@Minarisa](https://www.frontendmentor.io/profile/Minarisa)
